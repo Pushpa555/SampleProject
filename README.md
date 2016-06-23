@@ -1,2 +1,5 @@
 # SampleProject
-Sample first repository 
+Sample first repository
+
+welcome to sample project
+
